@@ -11,7 +11,8 @@ OS: Windows 11 Pro x86_64 [23H2]
 Host: Custom Rig
 Shell: PowerShell 7 (pwsh)
 Editor: Visual Studio Code
-Languages: C#, C++, C, Lua, Python, PowerShell
+Languages: C#, C++, C, Lua, Python, PowerShell,
+           HTML, CSS, Java
 Interests: Militarism, Tactical Tech, Ballistics, Military History, Gaming
 Location: Poland 🇵🇱
 Waifu / Muse: Agnes Tachyon (アグネスタキオン) 🧪⚡
