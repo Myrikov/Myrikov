@@ -2,7 +2,7 @@
 > aleg
 ```
 
-<img align="left" src="./assets/agnes_tachyon.png" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/Myrikov/aleg/main/assets/agnes_tachyon.png';" alt="Agnes Tachyon" width="310" />
+<img align="left" src="https://raw.githubusercontent.com/Myrikov/aleg/main/assets/agnes_tachyon.png" alt="Agnes Tachyon" width="310" />
 
 ```yaml
 aleg@poland
@@ -20,6 +20,8 @@ Stars: 0
 Status: Speed of light experiments in progress...
 ```
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#1f2421" src="https://via.placeholder.com/15/1f2421/000000?text=+" width="25" height="20" /><img alt="#216869" src="https://via.placeholder.com/15/216869/000000?text=+" width="25" height="20" /><img alt="#49a078" src="https://via.placeholder.com/15/49a078/000000?text=+" width="25" height="20" /><img alt="#9cc5a1" src="https://via.placeholder.com/15/9cc5a1/000000?text=+" width="25" height="20" /><img alt="#f4a261" src="https://via.placeholder.com/15/f4a261/000000?text=+" width="25" height="20" /><img alt="#e76f51" src="https://via.placeholder.com/15/e76f51/000000?text=+" width="25" height="20" /><img alt="#d90429" src="https://via.placeholder.com/15/d90429/000000?text=+" width="25" height="20" /><img alt="#dce1de" src="https://via.placeholder.com/15/dce1de/000000?text=+" width="25" height="20" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="#1f2421" src="https://singlecolorimage.com/get/1f2421/25x20" width="25" height="20" /><img alt="#216869" src="https://singlecolorimage.com/get/216869/25x20" width="25" height="20" /><img alt="#49a078" src="https://singlecolorimage.com/get/49a078/25x20" width="25" height="20" /><img alt="#9cc5a1" src="https://singlecolorimage.com/get/9cc5a1/25x20" width="25" height="20" /><img alt="#f4a261" src="https://singlecolorimage.com/get/f4a261/25x20" width="25" height="20" /><img alt="#e76f51" src="https://singlecolorimage.com/get/e76f51/25x20" width="25" height="20" /><img alt="#d90429" src="https://singlecolorimage.com/get/d90429/25x20" width="25" height="20" /><img alt="#dce1de" src="https://singlecolorimage.com/get/dce1de/25x20" width="25" height="20" />
 </p>
+
+<br clear="left"/>
