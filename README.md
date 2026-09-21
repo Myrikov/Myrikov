@@ -2,7 +2,7 @@
 > aleg
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/Myrikov/aleg/main/assets/agnes_tachyon.png" alt="Agnes Tachyon" width="310" />
+<img align="left" src="https://raw.githubusercontent.com/Myrikov/Myrikov/main/assets/agnes_tachyon.png" alt="Agnes Tachyon" width="310" />
 
 ```yaml
 aleg@poland
